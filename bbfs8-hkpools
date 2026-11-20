@@ -1,11 +1,1 @@
-'';
-            document.getElementById('scanResults').style.display = 'none';
-            showToast("Data dibersihkan! 🔒 Hk Pools");
-        }
-    }
 
-    setInterval(saveData, 5000);
-</script>
-
-</body>
-</html>
